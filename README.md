@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Epos System<br>🌱 I’m currently learning<br>💬 Ask me about Flutter, Dart, JAVA, KOTLIN
+🔭 I’m currently working on Epos System<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter, Dart, JAVA, KOTLIN
 
 
 ## 🌐 Socials:
