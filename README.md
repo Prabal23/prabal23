@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabal23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Check out Prabal23's profile on stardev.io](https://stardev.io/developers/Prabal23/badge/languages/country.svg)](https://stardev.io/developers/Prabal23)
-[![Check out Prabal23's profile on stardev.io](https://stardev.io/developers/Prabal23/badge/languages/locality.svg)](https://stardev.io/developers/Prabal23)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prabal23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
